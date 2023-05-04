@@ -20,7 +20,7 @@ print("enter character")
 println("Enter character value:" +Ch)
 println("ASCII value:" +Ch.toInt)*/
     
-// Swapping two numbers with/without using third variable
+// ***Swapping two numbers with/without using third variable
 
     var a=10
     var b=15
